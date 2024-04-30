@@ -239,6 +239,10 @@
 	font-size:1.3rem;
 	font-family:'Bree Serif',serif;
    }
+
+   #button {
+    font-size: 10px;
+   }
    
    /* Footer */  
    footer
@@ -276,6 +280,16 @@
 	cursor:pointer;
   }
  
+  .Submit{
+    padding:6px 20px;
+	border: 2px solid white;
+	background-color:brown;
+	color:white;
+	margin: 17px;
+	font-size:1.5rem;
+	border-radius:10px;
+	cursor:pointer;
+  }
  
  
  
